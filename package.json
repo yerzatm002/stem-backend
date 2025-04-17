@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "start": "node src/server.js",     
+    "build": "echo 'no build script needed'",
     "test": "jest --runInBand"
   },
   "keywords": [],
